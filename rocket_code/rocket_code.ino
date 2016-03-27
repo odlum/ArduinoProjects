@@ -15,7 +15,7 @@ pressure = (analogRead(0)/1024.0 + 0.095 ) / 0.0009;
 A) INSIDE: A1
 B) OUTSIDE: A2
 
---------------FUCKING ACCELEROMETER---------FUCK THIS---------------
+--------------ACCELEROMETER------------------------
 x: A3
 Y: A4
 Z: A5
